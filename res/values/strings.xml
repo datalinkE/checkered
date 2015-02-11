@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CheckeredColors</string>
+    <string name="action_about">About</string>
+    <string name="action_not_now">Not now</string>
+    <string name="about_text">Inspired by Museum of Modern Art in NY</string>
+    <string name="action_ok">OK</string>
+
+    <string-array name="more_info">
+        <item name="moma_website">Check MoMA website</item>
+        <item name="hsv_color">Know more about HSV color system I used (Wikipedia)</item>
+        <item name="good_color_picker">Advanced web color-picker which utilizes the same ideas (Adobe)</item>
+    </string-array>
+    
+    <string-array name="more_info_urls">
+        <item name="moma_url">http://www.moma.org/</item>
+        <item name="wiki_url">http://en.wikipedia.org/wiki/HSL_and_HSV</item>
+        <item name="adobe_url">https://color.adobe.com</item>
+    </string-array>
+
+</resources>
